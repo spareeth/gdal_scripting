@@ -77,7 +77,7 @@ pygments_style = None
 # a list of builtin themes.
 #
 # html_theme = 'alabaster'
-html_theme = 'classic'
+html_theme = 'sphinx_rtd_theme'
 body_min_width = 0
 body_max_width = None
 
